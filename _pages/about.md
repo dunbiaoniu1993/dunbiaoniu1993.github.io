@@ -11,6 +11,7 @@ Dunbiao Niu received the B.S. degree in statistics from Southwest Jiaotong Unive
 
 Education
 ======
+------
 2020.09-2023.06 | Sichuan University, China                                                             
 College of Mathematics Ph.D. Candidate in Applied Statistics  
 • Thesis: Robust Statistical Modeling: Theory, Algorithms, and Applications (Advised by Professor Enbin
@@ -37,6 +38,7 @@ Professor Chengjing Wang)
 
 Employment
 ======
+------
 2023.08-Present | Tongji University, China  
 College of Electronic and Information Engineering | Postdoctoral Fellow  
 • Research Topic: Research on Robust and Distributed Cooperative Estimation Methods in Complex Multi-Agent Systems (Co-supervisor: Professor Hong Yiguang)  
@@ -45,6 +47,7 @@ College of Electronic and Information Engineering | Postdoctoral Fellow
 
 Honors
 ======
+------
 • 2024.08 the Postdoctoral Fellowship Program of CPSF  
 • 2022.10 Liu Yingming Scholarship of Sichuan University  
 • 2021.10 Doctoral Innovation Scholarship of Sichuan University  
@@ -54,5 +57,6 @@ Honors
 
 Social Affiliations
 ======
-• IEEE INFOCOM 2026 Workshop: TPC Member
-• IEEE Transactions on Signal Processing(JCR-Q1): Reviewer
+------
+• IEEE INFOCOM 2026 Workshop: TPC Member  
+• IEEE Transactions on Signal Processing(JCR-Q1): Reviewer  
