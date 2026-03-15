@@ -44,10 +44,15 @@ College of Electronic and Information Engineering | Postdoctoral Fellow
 • Participated in the key research projects led by the supervisor and was responsible for the compilation of interim and annual reports, and attended the corresponding review meetings.  
 
 Honors
-------
+======
 • 2024.08 the Postdoctoral Fellowship Program of CPSF  
 • 2022.10 Liu Yingming Scholarship of Sichuan University  
 • 2021.10 Doctoral Innovation Scholarship of Sichuan University  
 • 2019.06 Outstanding graduate student of Sichuan University  
 • 2018.10 Sichuan University · 83 Wang Wei Scholarship  
 • 2018.06 National Scholarship for Postgraduates  
+
+Social Affiliations
+======
+• IEEE INFOCOM 2026 Workshop: TPC Member
+• IEEE Transactions on Signal Processing(JCR-Q1): Reviewer
